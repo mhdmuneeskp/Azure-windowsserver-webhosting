@@ -1,4 +1,4 @@
-# Azure-windowsserver-webhosting# Azure Windows Server Web Hosting
+# Azure-windowsserver-webhosting
 
 ## Project Overview
 
